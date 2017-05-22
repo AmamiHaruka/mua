@@ -1,4 +1,4 @@
-package com.dps.mua.service;
+package com.mua.service;
 
 public interface UserService {
 

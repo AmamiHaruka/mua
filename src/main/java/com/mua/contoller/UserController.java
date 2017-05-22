@@ -1,4 +1,4 @@
-package com.dps.mua.contoller;
+package com.mua.contoller;
 
 public class UserController {
 
