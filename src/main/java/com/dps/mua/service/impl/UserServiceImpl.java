@@ -1,4 +1,4 @@
-package mua.service.impl;
+package com.dps.mua.service.impl;
 
 public class UserServiceImpl {
 
